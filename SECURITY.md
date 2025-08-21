@@ -6,9 +6,11 @@ I welcome security reports for my projects. The efforts and contributions from i
 
 Please make initial security reports privately.
 
-If possible please use GitHub's private vulnerability reporting system. The process is explained in the [creating a repository security advisory](https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/creating-a-repository-security-advisory) section of GitHub's secure coding documentation. If that tool is not available to you then you may contact me via email. You can use the email address that is associated with my git commits in the repository.
+If possible please use GitHub's private vulnerability reporting system. The process is explained in the [creating a repository security advisory][reportingdoc] section of GitHub's secure coding documentation. If that tool is not available to you then you may contact me via email. You can use the email address that is associated with my git commits in the repository.
 
 If you are unsure if an issue has security implications then reach out to me via the security reporting process anyway. I'll work with you to verify and classify the problem.
+
+[reportingdoc]: https://docs.github.com/en/code-security/security-advisories/working-with-repository-security-advisories/creating-a-repository-security-advisory
 
 ## Responsible disclosure
 
